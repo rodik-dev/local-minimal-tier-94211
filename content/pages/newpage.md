@@ -1,5 +1,5 @@
 ---
-title: newoage
+title: New Page
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
